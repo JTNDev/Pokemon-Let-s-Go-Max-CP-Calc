@@ -9,3 +9,4 @@ We also want to release on the Google Play Store but I don't want to get sued as
 Apple App Store I will not stop you.
 
 Some future features I want to add are a traditional IV calculator and an EV calculator.
+To build just go into the Mac folder click on Xcode 10 and build inside of Xcode
